@@ -1,0 +1,130 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+
+}
+    
+    
+    
+    
+    
+    .main-container{
+        display: flex;
+        flex-direction: column;
+
+    }
+
+
+
+
+
+
+.top-container{
+     
+    background-color: #1f2937;
+    color: #e5e7eb;
+
+
+}
+
+.top-container > p , h1{
+    width: 40%;
+    margin-left: 20px;
+ 
+ 
+ margin-right: auto ;
+ width: 50%;
+
+}
+.schoolimg {
+    position: absolute;
+    top: 30px;
+    right: 90px;
+    width: 100px;
+    height: 400px;
+}
+
+.second-container{
+    display: flex;
+}
+
+.parags {
+    display: flex;
+    text-align: center;
+}
+
+.parags  p{
+     align-items: center;
+    width: 100%;
+    height: 200px;
+
+    
+  justify-content: space-evenly;
+    
+}
+.third-container {
+    background-color: #e5e7eb;
+    height: 250px;
+
+    
+    
+}
+.third-container p{
+    width: 50%;
+    margin: 0 auto;}
+.quotes{
+
+}
+
+.schoollogo{
+    width: 5%;
+    height: 5%;
+    border-radius: 100%;
+}
+
+    ul {
+        list-style-type: none;  
+        position: absolute;
+        top: 0;
+        right: 0;
+        margin: 10px;  
+        padding: 0;
+      }
+  
+
+.schoolimg{
+    width: 40%;
+    height: 100px;
+}
+
+
+.poster {
+    width: 100%;
+    height: 250px;
+    
+    justify-content: center;
+    flex: 1 ;
+    margin-left: auto;
+    
+
+}
+
+.poster img{
+    border-radius: 5%;
+}
+
+.poster{
+    display: flex;
+ }
+
+.citee{
+    position: absolute;
+    right: 350px;
+}
+ footer {
+        text-align: center;
+        padding: 10px;
+        background-color: #1f2937;
+        color: #e5e7eb;;
+      }
